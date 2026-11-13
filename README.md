@@ -1,20 +1,20 @@
-# AI 驾驶员-布艾
+# BUAI — Indie Developer & AI Product Builder
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/buainoai/buainoai/main/header.gif" alt="AI 驾驶员" width="800"/>
+  <img src="https://raw.githubusercontent.com/buainoai/buainoai/main/header.gif" alt="BUAI — Indie Developer" width="800"/>
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=驾驭+AI，驶向未来&center=true&size=27&width=800&height=50&color=00FFFF&vCenter=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Tools+%26+Daily+Games;Turning+Ideas+Into+Products&center=true&size=27&width=800&height=50&color=00FFFF&vCenter=true" />
   </h1>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 关于我 (About Me)</h2>
-  <p>你好，我是 <strong>布艾</strong>，一名 AI 驾驶员。</p>
-  <p>我不驾驶传统的交通工具，我驾驭的是人工智能的浪潮。</p>
-  <p>我的目标是通过探索、构建和应用前沿的 AI 技术，来放大人类的智慧和创造力，解决复杂问题，并塑造一个更智能、更高效的未来。</p>
-  <p>在这里，你将看到我对 AI 世界的探索、实验和思考。</p>
+  <h2>🚀 About Me</h2>
+  <p>Hi, I'm <strong>BUAI</strong> — an independent developer and product builder.</p>
+  <p>I create web products at the intersection of <strong>AI, creative tools, and daily games</strong>.</p>
+  <p>My focus is on turning useful ideas into real products — from AI video generation to browser-based games and developer resources.</p>
+  <p>I enjoy building, experimenting, and refining products based on real user feedback. Explore my work below.</p>
 </div>
 
 ## 🚀 Products & Websites
@@ -56,8 +56,8 @@ I build and maintain independent products across **AI video**, **daily games**, 
 ---
 
 <div align="center">
-  <h2>🧠 核心能力 (Core Competencies)</h2>
-  <p>我专注于以下领域，将它们作为我驾驭 AI 的核心引擎：</p>
+  <h2>🧠 Core Competencies</h2>
+  <p>Technologies and tools I explore and work with:</p>
   <br>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,go,rust,docker,kubernetes,aws,gcp,azure&perline=5&theme=dark" />
 </div>
@@ -65,9 +65,9 @@ I build and maintain independent products across **AI video**, **daily games**, 
 ---
 
 <div align="center">
-  <h2>🌐 我的哲学 (My Philosophy)</h2>
+  <h2>🌐 My Philosophy</h2>
   <blockquote>
-    <p>“AI 不是取代人类，而是成为人类能力的放大器。真正的‘驾驶’，是引导 AI 的方向，确保技术的发展服务于人类的共同福祉。”</p>
+    <p>“AI is most valuable when it amplifies human creativity and capability. The goal is to turn powerful technology into practical tools that help people create, learn, and solve problems.”</p>
   </blockquote>
 </div>
 
