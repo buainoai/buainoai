@@ -24,7 +24,6 @@ I build and maintain independent products across **AI video**, **daily games**, 
 ### 🎬 AI Video & Creative Tools
 
 - **[AIFree Video](https://aifree.video/)** — AI video creation and generation tools.
-- **[Wan2.Video](https://wan2.video/)** — AI video generators, models, and creative workflows.
 - **[CDance AI](https://cdanceai.com/)** — AI video creation.
 - **[AudioVizFree](https://audiovizfree.com/)** — Audio visualization tools.
 
