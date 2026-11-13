@@ -31,8 +31,6 @@ I build and maintain independent products across **AI video**, **daily games**, 
 ### 🎮 Daily Games & Discovery
 
 - **[DLE Games](https://dlegames.org/)** — Discover daily browser games, Wordle alternatives, and puzzles.
-- **[RNGdle](https://rngdle.net/)** — A browser-based daily randomness game.
-- **[AllRank](https://allrank.lol/)** — Interactive rankings and games.
 - **[Visual Novel Games](https://visualnovelgames.net/)** — Explore visual novel games.
 
 ### 🛠️ AI & Developer Tools
@@ -44,7 +42,6 @@ I build and maintain independent products across **AI video**, **daily games**, 
 - **[Free3DGen](https://free3dgen.com/)** — AI-powered 3D creation tools.
 - **[Frequency Test](https://frequencytest.org/)** — Browser-based frequency and audio testing.
 - **[Dead Pixel Check](https://dead-pixel-check.com/)** — Screen and dead-pixel testing.
-- **[AllClaw](https://allclaw.org/)** — AI agent resources.
 
 ### 📦 Open-source & GitHub Projects
 
