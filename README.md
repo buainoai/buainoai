@@ -55,7 +55,6 @@ I build and maintain independent products across **AI video**, **daily games**, 
 - [Awesome AI Devtools Multilingual](https://github.com/buainoai/awesome-ai-devtools-multilingual)
 - [Next.js Cloudflare Migration Skills](https://github.com/buainoai/nextjs-cloudflare-migration-skills)
 
-**Company:** [BUAI LLC](https://buai.dev/)
 
 ---
 
