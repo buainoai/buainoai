@@ -17,6 +17,44 @@
   <p>在这里，你将看到我对 AI 世界的探索、实验和思考。</p>
 </div>
 
+## 🚀 Products & Websites
+
+I build and maintain independent products across **AI video**, **daily games**, and **developer tools**. Below are the live projects and resources I'm working on.
+
+### 🎬 AI Video & Creative Tools
+
+- **[AIFree Video](https://aifree.video/)** — AI video creation and generation tools.
+- **[Wan2.Video](https://wan2.video/)** — AI video generators, models, and creative workflows.
+- **[CDance AI](https://cdanceai.com/)** — AI video creation.
+- **[AudioVizFree](https://audiovizfree.com/)** — Audio visualization tools.
+
+### 🎮 Daily Games & Discovery
+
+- **[DLE Games](https://dlegames.org/)** — Discover daily browser games, Wordle alternatives, and puzzles.
+- **[RNGdle](https://rngdle.net/)** — A browser-based daily randomness game.
+- **[AllRank](https://allrank.lol/)** — Interactive rankings and games.
+- **[Visual Novel Games](https://visualnovelgames.net/)** — Explore visual novel games.
+
+### 🛠️ AI & Developer Tools
+
+- **[AI IDE List](https://aiidelist.com/)** — Compare AI IDEs, coding agents, and developer tools.
+- **[ImageToolkit](https://imagetoolkit.org/)** — Free browser-based image tools.
+- **[A2A MCP](https://a2a-mcp.org/)** — Discover MCP servers and agent integrations.
+- **[OKLCH](https://oklch.xyz/)** — Explore and create colors with OKLCH.
+- **[Free3DGen](https://free3dgen.com/)** — AI-powered 3D creation tools.
+- **[Frequency Test](https://frequencytest.org/)** — Browser-based frequency and audio testing.
+- **[Dead Pixel Check](https://dead-pixel-check.com/)** — Screen and dead-pixel testing.
+- **[AllClaw](https://allclaw.org/)** — AI agent resources.
+
+### 📦 Open-source & GitHub Projects
+
+- [Remotion Skills](https://github.com/buainoai/remotion-skills)
+- [Awesome AI Pricing](https://github.com/buainoai/awesome-ai-pricing)
+- [Awesome AI Devtools Multilingual](https://github.com/buainoai/awesome-ai-devtools-multilingual)
+- [Next.js Cloudflare Migration Skills](https://github.com/buainoai/nextjs-cloudflare-migration-skills)
+
+**Company:** [BUAI LLC](https://buai.dev/)
+
 ---
 
 <div align="center">
