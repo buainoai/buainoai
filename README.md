@@ -48,6 +48,8 @@ I build and maintain independent products across **AI video**, **daily games**, 
 
 ### 📦 Open-source & GitHub Projects
 
+- [Daily Puzzle Kit](https://github.com/buainoai/daily-puzzle-kit) — TypeScript utilities for building daily puzzle games.
+- [DLE Games Community](https://github.com/buainoai/dlegames) — game submissions, data examples, and project documentation.
 - [Remotion Skills](https://github.com/buainoai/remotion-skills)
 - [Awesome AI Pricing](https://github.com/buainoai/awesome-ai-pricing)
 - [Awesome AI Devtools Multilingual](https://github.com/buainoai/awesome-ai-devtools-multilingual)
